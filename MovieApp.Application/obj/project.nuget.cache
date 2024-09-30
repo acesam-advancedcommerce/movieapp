@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ez58+NtppzVhJeoJ7oMWMT80W9KHipWDp2V4k7DIqmsUPGZ3UxsS/SvPHriGUaFaChQaPnQmXIJdWh9HYeo54w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Staff\\Desktop\\MovieApp\\MovieApp.Application\\MovieApp.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Staff\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
